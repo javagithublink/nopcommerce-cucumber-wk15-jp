@@ -1,0 +1,85 @@
+2021-12-15 18:12:242 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:76 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (f640a1da6ae869a350e341b0a1cc8416)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:109 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (f640a1da6ae869a350e341b0a1cc8416)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:166 INFO  ComputerPage :32 - Verify Computer Page : Computers
+2021-12-15 18:12:941 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:246 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (0da96feb4307272a5836eadaf3335aed)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:404 INFO  ComputerPage :37 - Click On Desktop : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']'
+2021-12-15 18:12:466 INFO  DesktopsPage :35 - Verify Desktop Page : [[ChromeDriver: chrome on WINDOWS (0da96feb4307272a5836eadaf3335aed)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-15 18:12:237 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:996 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (a7eec9833749909dfc772affa45574c4)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:575 INFO  ComputerPage :37 - Click On Desktop : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']'
+2021-12-15 18:12:765 INFO  DesktopsPage :40 - Click on Build your own Computer : Proxy element for: DefaultElementLocator 'By.xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']'
+2021-12-15 18:12:04 INFO  BuildYourOwnComputerPage :53 - Select Processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2021-12-15 18:12:253 INFO  BuildYourOwnComputerPage :59 - Select RAM : 2 GB
+2021-12-15 18:12:335 INFO  BuildYourOwnComputerPage :69 - Select HDD : 320 GB
+2021-12-15 18:12:419 INFO  BuildYourOwnComputerPage :79 - Select OS : Vista Home [+$50.00]
+2021-12-15 18:12:501 INFO  BuildYourOwnComputerPage :91 - Select Software : Microsoft Office [+$50.00]
+2021-12-15 18:12:594 INFO  BuildYourOwnComputerPage :98 - Click On add to cart : [[ChromeDriver: chrome on WINDOWS (a7eec9833749909dfc772affa45574c4)] -> xpath: //button[normalize-space()='Add to cart']]
+2021-12-15 18:12:888 INFO  BuildYourOwnComputerPage :103 - Verify product added to cart : The product has been added to your shopping cart
+2021-12-15 18:12:605 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:16 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (7f7e90486b066b372f33b0058651426e)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:273 INFO  ComputerPage :37 - Click On Desktop : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']'
+2021-12-15 18:12:993 INFO  DesktopsPage :40 - Click on Build your own Computer : Proxy element for: DefaultElementLocator 'By.xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']'
+2021-12-15 18:12:204 INFO  BuildYourOwnComputerPage :53 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-15 18:12:445 INFO  BuildYourOwnComputerPage :59 - Select RAM : 4GB [+$20.00]
+2021-12-15 18:12:543 INFO  BuildYourOwnComputerPage :69 - Select HDD : 400 GB [+$100.00]
+2021-12-15 18:12:623 INFO  BuildYourOwnComputerPage :79 - Select OS : Vista Premium [+$60.00]
+2021-12-15 18:12:702 INFO  BuildYourOwnComputerPage :91 - Select Software : Acrobat Reader [+$10.00]
+2021-12-15 18:12:793 INFO  BuildYourOwnComputerPage :98 - Click On add to cart : [[ChromeDriver: chrome on WINDOWS (7f7e90486b066b372f33b0058651426e)] -> xpath: //button[normalize-space()='Add to cart']]
+2021-12-15 18:12:518 INFO  BuildYourOwnComputerPage :103 - Verify product added to cart : The product has been added to your shopping cart
+2021-12-15 18:12:259 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:825 INFO  HomePage :53 - Click on computer link : [[ChromeDriver: chrome on WINDOWS (0bc39fdadd3d9ecdfc956d2c0abfffa7)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2021-12-15 18:12:928 INFO  ComputerPage :37 - Click On Desktop : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']'
+2021-12-15 18:12:886 INFO  DesktopsPage :40 - Click on Build your own Computer : Proxy element for: DefaultElementLocator 'By.xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']'
+2021-12-15 18:12:74 INFO  BuildYourOwnComputerPage :53 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-15 18:12:313 INFO  BuildYourOwnComputerPage :59 - Select RAM : 8GB [+$60.00]
+2021-12-15 18:12:394 INFO  BuildYourOwnComputerPage :69 - Select HDD : 320 GB
+2021-12-15 18:12:469 INFO  BuildYourOwnComputerPage :79 - Select OS : Vista Home [+$50.00]
+2021-12-15 18:12:546 INFO  BuildYourOwnComputerPage :91 - Select Software : Total Commander [+$5.00]
+2021-12-15 18:12:639 INFO  BuildYourOwnComputerPage :98 - Click On add to cart : [[ChromeDriver: chrome on WINDOWS (0bc39fdadd3d9ecdfc956d2c0abfffa7)] -> xpath: //button[normalize-space()='Add to cart']]
+2021-12-15 18:12:935 INFO  BuildYourOwnComputerPage :103 - Verify product added to cart : The product has been added to your shopping cart
+2021-12-15 18:12:666 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:994 INFO  HomePage :41 - Click on Login Link : [[ChromeDriver: chrome on WINDOWS (be30309512929136e98b7f1095af0bb1)] -> xpath: //a[normalize-space()='Log in']]
+2021-12-15 18:12:21 INFO  HomePage :41 - Click on Login Link : [[ChromeDriver: chrome on WINDOWS (be30309512929136e98b7f1095af0bb1)] -> xpath: //a[normalize-space()='Log in']]
+2021-12-15 18:12:78 INFO  LoginPage :46 - verifying the welcome message : [[ChromeDriver: chrome on WINDOWS (be30309512929136e98b7f1095af0bb1)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2021-12-15 18:12:821 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:558 INFO  HomePage :41 - Click on Login Link : [[ChromeDriver: chrome on WINDOWS (66f28c05157c14f1a04bfadfe88688ab)] -> xpath: //a[normalize-space()='Log in']]
+2021-12-15 18:12:676 INFO  LoginPage :53 - Entering the email : Prime@gmail.com
+2021-12-15 18:12:779 INFO  LoginPage :59 - Entering the password :  
+2021-12-15 18:12:848 INFO  LoginPage :66 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (66f28c05157c14f1a04bfadfe88688ab)] -> xpath: //button[normalize-space()='Log in']]
+2021-12-15 18:12:13 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:453 INFO  HomePage :41 - Click on Login Link : [[ChromeDriver: chrome on WINDOWS (ba6b97cc742276d899bdcb0153e46d98)] -> xpath: //a[normalize-space()='Log in']]
+2021-12-15 18:12:571 INFO  LoginPage :53 - Entering the email : Prime@gmail.com
+2021-12-15 18:12:690 INFO  LoginPage :59 - Entering the password : Prime123
+2021-12-15 18:12:713 INFO  LoginPage :66 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (ba6b97cc742276d899bdcb0153e46d98)] -> xpath: //button[normalize-space()='Log in']]
+2021-12-15 18:12:823 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:89 INFO  HomePage :41 - Click on Login Link : [[ChromeDriver: chrome on WINDOWS (117729cdf1e225ccbd5aefc4d558b998)] -> xpath: //a[normalize-space()='Log in']]
+2021-12-15 18:12:202 INFO  LoginPage :53 - Entering the email : Prime@gmail.com
+2021-12-15 18:12:315 INFO  LoginPage :59 - Entering the password : Prime123
+2021-12-15 18:12:379 INFO  LoginPage :66 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (117729cdf1e225ccbd5aefc4d558b998)] -> xpath: //button[normalize-space()='Log in']]
+2021-12-15 18:12:437 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:846 INFO  RegisterPage :138 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9e9ad29060c03412b5125a57fd50ae6d)] -> xpath: //a[normalize-space()='Register']]
+2021-12-15 18:12:829 INFO  RegisterPage :138 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9e9ad29060c03412b5125a57fd50ae6d)] -> xpath: //a[normalize-space()='Register']]
+2021-12-15 18:12:885 INFO  RegisterPage :148 - Verifying the Register Text : [[ChromeDriver: chrome on WINDOWS (9e9ad29060c03412b5125a57fd50ae6d)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-15 18:12:630 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:159 INFO  RegisterPage :138 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (25303a353a0ab39822ab05e38270b867)] -> xpath: //a[normalize-space()='Register']]
+2021-12-15 18:12:285 INFO  RegisterPage :127 - Click on Register : [[ChromeDriver: chrome on WINDOWS (25303a353a0ab39822ab05e38270b867)] -> xpath: //button[@id='register-button']]
+2021-12-15 18:12:330 INFO  RegisterPage :153 - Verifying the first name is required : First name is required.
+2021-12-15 18:12:372 INFO  RegisterPage :159 - Verifying the last name is required : Last name is required.
+2021-12-15 18:12:431 INFO  RegisterPage :164 - Verifying email is required : [[ChromeDriver: chrome on WINDOWS (25303a353a0ab39822ab05e38270b867)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-15 18:12:462 INFO  RegisterPage :170 - Verifying password is required : Password is required.
+2021-12-15 18:12:510 INFO  RegisterPage :176 - Verifying Confirmation password is required : Password is required.
+2021-12-15 18:12:250 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:651 INFO  RegisterPage :138 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (3d1ae3ff36819a5eeedfb663b1488e70)] -> xpath: //a[normalize-space()='Register']]
+2021-12-15 18:12:731 INFO  RegisterPage :87 - Select Gender : Female
+2021-12-15 18:12:850 INFO  RegisterPage :91 - Entering the First Name : Mehul
+2021-12-15 18:12:963 INFO  RegisterPage :96 - Entering the last Name : Patel
+2021-12-15 18:12:98 INFO  RegisterPage :100 - Entering the Birth day : 1
+2021-12-15 18:12:227 INFO  RegisterPage :104 - Entering the Birth Month : 1
+2021-12-15 18:12:360 INFO  RegisterPage :108 - Entering the Birth Year : 1980
+2021-12-15 18:12:479 INFO  LoginPage :53 - Entering the email : Prime@gmail.com
+2021-12-15 18:12:591 INFO  LoginPage :59 - Entering the password : Prime123
+2021-12-15 18:12:695 INFO  RegisterPage :122 - Entering the Confirm Password : Prime123
+2021-12-15 18:12:28 INFO  RegisterPage :127 - Click on Register : Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-12-15 18:12:74 INFO  RegisterPage :132 - Verify the register Tex : Your registration completed
